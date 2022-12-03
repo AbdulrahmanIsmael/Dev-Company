@@ -19,7 +19,7 @@ This is my very first project, I developed it from *Traversy Media* course, I ho
 - CSS
 ## Screenshots
 
-![Main]()
+![Main]("./screenshots/1.jpg")
 ![About]()
 ![Call]()
 
