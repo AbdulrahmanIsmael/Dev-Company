@@ -1,0 +1,279 @@
+body {
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.container {
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+}
+
+header {
+  background-color: #2F3242;
+  color: white;
+  padding-top: 30px;
+  border-bottom: #960000 4px solid;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+header ul {
+  padding: 0;
+  margin: 0;
+}
+
+header li {
+  list-style: none;
+  float: left;
+  display: inline;
+  padding: 0 18px 0 18px;
+}
+
+header .h1-h {
+  float: left;
+}
+
+header .h1-h h1 {
+  margin: 0;
+  padding-bottom: 15px;
+}
+
+header nav {
+  float: right;
+  padding-top: 10px;
+}
+
+header .hig {
+  color: #B30000;
+  font-weight: bold;
+}
+
+header .here {
+  color: #B30000;
+  font-weight: bold;
+}
+
+header a:hover {
+  color: white;
+  font-weight: bold;
+}
+
+#des {
+  min-height: 400px;
+  background-image: url(https://kimi.wiki/wp-content/uploads/2019/11/fotis-fotopoulos-DuHKoV44prg-unsplasho.jpg);
+  background-repeat: no-repeat;
+  background-position: 30% 70%;
+  text-align: center;
+  color: white;
+}
+
+#des h1 {
+  font-size: 50px;
+  margin-top: 100px;
+}
+
+#des p {
+  font-size: 25px;
+}
+
+#s-box {
+  background-color: #2F3242;
+  color: white;
+}
+
+#s-box h2 {
+  float: left;
+  font-size: 25px;
+  color: white;
+}
+
+#s-box form {
+  float: right;
+  margin-top: 25px;
+}
+
+#s-box button {
+  background: #B30000;
+  color: white;
+  height: 40px;
+  border: 0;
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
+
+#s-box button:hover {
+  background-color: black;
+  color: white;
+}
+
+#s-box input {
+  border: 0 solid black;
+  padding: 10px 20px;
+  margin-right: 10px;
+}
+
+#boxes {
+  margin-top: 30px;
+}
+
+#boxes .box {
+  float: left;
+  width: 30%;
+  text-align: center;
+  padding: 20px;
+}
+
+#boxes .box img {
+  width: 40%;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  background-color: #2F3242;
+  margin-top: 15px;
+  padding: 15px;
+}
+
+ #main .sidebar {
+  float: right;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: #2F3242;
+  width: 30%;
+  color: #FFFFFF
+}
+
+#main .sidet {
+  text-align: center;
+}
+
+#main .main-a{
+  margin-top: 30px;
+  width: 60%;
+  float: left;
+}
+
+.ABC {
+  background-color: #2F3242;
+  color: white;
+  padding: 10px;
+}
+
+#form-j {
+  background-color: #2F3242;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 400px;
+  padding: 10px;
+  width: 45%;
+  text-align: center;
+}
+
+#form-j .cd {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#form-j .hj {
+  font-size: 30px;
+  padding-right: 30px;
+}
+
+#form-j .bn {
+  height: 30px;
+  width: 200px;
+}
+
+#siden {
+  color: white;
+  width: 30%;
+  background-color: #2F3242;
+  margin-left: 530px;
+  text-align: center;
+}
+
+#siden .sidebar p{
+  font-size: 30px;
+  padding: 20px;
+}
+
+#form-j button {
+  background: #B30000;
+  color: white;
+  height: 40px;
+  border: 0;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#form-j button:hover {
+  background-color: black;
+  color: white;
+}
+
+@media (max-width: 800px) {
+  #form-j {
+  margin: 30px 0 0 0;
+  width: auto;
+  }
+  #siden {
+    margin: 0;
+    width: auto;
+  }
+  #main .sidebar {
+    float: none;
+    width: auto;
+  }
+
+  #main .main-a {
+    float: none;
+    width: auto;
+  }
+
+  #boxes .box{
+    float: none;
+    width: auto;
+  }
+  #des h1{
+    margin-top: 15px;
+  }
+  header {
+    border: 0;
+    padding: 20px;
+  }
+
+  header .h1-h {
+    float: none;
+    text-align: left;
+  }
+
+  header nav {
+    float: none;
+    text-align: center;
+  }
+
+  #s-box h2 {
+    float: none;
+    text-align: center;
+  }
+
+  #s-box form {
+    float: none;
+    text-align: center;
+  }
+}
