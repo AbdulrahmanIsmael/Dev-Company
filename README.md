@@ -19,9 +19,9 @@ This is my very first project, I developed it from *Traversy Media* course, I ho
 - CSS
 ## Screenshots
 
-![Main]("./screenshots/1.jpg")
-![About]()
-![Call]()
+![Main](https://github.com/AbdulrahmanIsmael/Development-Company/blob/main/screenshots/1.png)
+![About](https://github.com/AbdulrahmanIsmael/Development-Company/blob/main/screenshots/2.png)
+![Call](https://github.com/AbdulrahmanIsmael/Development-Company/blob/main/screenshots/3.png)
 
 
 ## Demo
