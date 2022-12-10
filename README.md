@@ -37,7 +37,7 @@ Because it is my first project, I worked on it during my first time in learning 
 #### - **What is the source of this project ?**
 As I mentioned, I did this project after finishing **Traversy Media** course, I copied the project with some changes on it.
 
-<hr/>
+---
 
 ## 🚀 About Me
 I'm a front End developer, I have the ability to build interactive, responsive and Organized Websites.
